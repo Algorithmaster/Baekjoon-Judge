@@ -3,6 +3,7 @@
 
 int main()
 {
+    //test
     std::string strPalindrome;
 
     std::cin >> strPalindrome;
